@@ -4,13 +4,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: rgb(10, 1, 1);
-background-color: transparent; */
+    background-color: rgb(10, 1, 1);
+background-color: transparent;
 height: 10vh;
 color: #f2eded;
 transition: all 0.5s;
 transition-timing-function: ease-in;
-z-index: 1;
+z-index: index 1;;
 /* background-color: red; */
 }
 .nav_black {
